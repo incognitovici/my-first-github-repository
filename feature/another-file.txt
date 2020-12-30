@@ -6,3 +6,5 @@ This file is modified locally via Visual Studio.
 This line is also added locally for in feature-2 branch usign Visual Stduio.
 
 Another modification after the commit in the feature-2 branch.
+
+This is a new modification for the feature-2 branch.
