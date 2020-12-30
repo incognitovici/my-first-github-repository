@@ -1,4 +1,6 @@
-Just another file is created in the feature-1 branch.
+
+This file is updated in feature-2 branch.
 
 This file is modified locally via Visual Studio.
 
+This line is also added locally for in feature-2 branch usign Visual Stduio.
